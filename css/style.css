@@ -1,11 +1,11 @@
 body{
-  background-color: powderblue ;
+  background-color: #ccf2f4 ;
 }
 hr{
-  background-color: powderblue ;
+  background-color: #ccf2f4 ;
   border-style: dotted none none;
-  border-color: grey;
-  border-width: 5px;
+  border-color: #a1cae2;
+  border-width: 8px;
   height: 0px;
   width: 5%;
 }
@@ -13,5 +13,5 @@ img{
   height: 200px;
 }
 h1,h3{
-  color:teal;
+  color:#51c2d5;
 }
